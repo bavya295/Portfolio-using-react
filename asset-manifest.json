@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio-using-react/static/css/main.c4f82fd3.css",
+    "main.js": "/Portfolio-using-react/static/js/main.f8d7fcc7.js",
+    "static/js/787.2dcca737.chunk.js": "/Portfolio-using-react/static/js/787.2dcca737.chunk.js",
+    "static/media/NYTP.gif": "/Portfolio-using-react/static/media/NYTP.dc2437d265db7a57d72c.gif",
+    "static/media/BavyaImage.png": "/Portfolio-using-react/static/media/BavyaImage.e555d2607e373e6562ad.png",
+    "static/media/project.jpg": "/Portfolio-using-react/static/media/project.ac45ac58662150068a7c.jpg",
+    "static/media/Bavya R_Resume..pdf": "/Portfolio-using-react/static/media/Bavya R_Resume..bb8df744009fe5491740.pdf",
+    "static/media/school.jpeg": "/Portfolio-using-react/static/media/school.64c54bf02415a77a40e9.jpeg",
+    "static/media/logo.svg": "/Portfolio-using-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Portfolio-using-react/index.html",
+    "main.c4f82fd3.css.map": "/Portfolio-using-react/static/css/main.c4f82fd3.css.map",
+    "main.f8d7fcc7.js.map": "/Portfolio-using-react/static/js/main.f8d7fcc7.js.map",
+    "787.2dcca737.chunk.js.map": "/Portfolio-using-react/static/js/787.2dcca737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4f82fd3.css",
+    "static/js/main.f8d7fcc7.js"
+  ]
+}
